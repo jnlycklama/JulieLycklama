@@ -10,11 +10,15 @@ body {
 }
 a {
 	text-decoration: none;
-	font-family: Tahoma;
 	color: black;
 }
+
 p {
-	font-family: Tahoma;
+	font-family: "Quicksand";
+}
+
+h1, h2, h3, h4 {
+	font-family: "Bentham";
 }
 
 #header {
@@ -147,6 +151,62 @@ p {
 .head h1, h2, h3, h4 {
 	font-family: "Bentham";
 }
+
+.courses h2{
+	font-family: "Quicksand";
+	text-align: center;
+}
+
+
+.projects {
+	border: solid;
+	width: 20%;
+	margin: 2%;
+	padding: 2%;
+	display: inline-block;
+}
+
+#see_more a {
+	text-align: right;
+	font-family: "Quicksand";
+}
+
+.exp_left {
+	width: 30%;
+	display: inline-block;
+	float: left;
+	font-family: "Quicksand";
+}
+.exp_mid {
+	width: 30%;
+	display: inline-block;
+	font-family: "Quicksand";
+}
+
+.exp_right {
+	width: 30%;
+	display: inline-block;
+	float: right;
+	font-family: "Quicksand";
+}
+.exp_pic{
+	width: 30%;
+}
+
+.text {
+	font-family: "Quicksand";
+}
+
+.proj p, a {
+	font-family: "Quicksand";
+}
+
+.proj {
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
 
 
 
