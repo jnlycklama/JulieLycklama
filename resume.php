@@ -7,6 +7,8 @@
 	<link rel="shortcut icon" href="https://40.media.tumblr.com/3bd2e927080954d9516ccdc325cd03">
 	<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.11.1.min.js"></script>
 	<script src="main.js"></script>
+	<link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Bentham' rel='stylesheet' type='text/css'>
 </head>
 
 <body>
@@ -29,51 +31,7 @@
 
 	<div class="section">
 		<h1>Resume</h1>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
-		<p>Filler text :)</p>
+		<iframe src="https://docs.google.com/file/d/0B5KSP3Drmel4TW5yWTJPQkVXRlE/preview" width="640" height="480"></iframe>
 
 	</div>
 </body>

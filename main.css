@@ -206,7 +206,19 @@ h1, h2, h3, h4 {
 	margin-right: auto;
 	margin-left: auto;
 }
+.tv {
+	width: 15%;
+	padding: 2%;
+	height: 20%;
+	overflow: hidden;
+}
 
+.tv_div{
+	max-height: 100px;
+	overflow: hidden;
+	display: inline-block;
+	width: 15%;
+}
 
 
 

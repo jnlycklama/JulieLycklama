@@ -35,7 +35,7 @@
 			
 			<h1>Queen's <span id="caps">University</span></h1>
 			<h2>Bachelor of Computing, Specialization in Software Design</h2>
-			<h2>Cumulative GPA: 3.54</h2>
+			<h2>Cumulative GPA: 3.71</h2>
 
 			<a href="#first"><span class="button">First Year</span></a><br><br>
 			<a href="#second"><span class="button">Second Year</span></a>
